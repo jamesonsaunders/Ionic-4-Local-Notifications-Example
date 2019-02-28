@@ -1,8 +1,8 @@
 # Ionic 4 Local Notifications Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Local Notifications](https://youtu.be/c3CrC9lL53k).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Local Notifications](https://youtu.be/FLHi2pc8gX0).
 
-[![Ionic 4 Local Notifications](https://img.youtube.com/vi/c3CrC9lL53k/0.jpg)](https://youtu.be/c3CrC9lL53k)
+[![Ionic 4 Local Notifications](https://img.youtube.com/vi/FLHi2pc8gX0/0.jpg)](https://youtu.be/FLHi2pc8gX0)
 
 A minimal example of how to get the Ionic 4 Local Notifications working on your own site.
 
