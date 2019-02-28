@@ -10,6 +10,10 @@ If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube
 
 ## Building
 
+`ionic cordova build ios`
+
+`ionic cordova bulid android`
+
 Building this is a bit more tricky since it only works on IOS and Android.
 
 Please see my video on [Ionic 4 Build App - IOS, Android, Web (Mac tutorial)](https://www.youtube.com/watch?v=B_seja5eHt8).
