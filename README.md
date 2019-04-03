@@ -8,17 +8,29 @@ A minimal example of how to get the Ionic 4 Local Notifications working on your 
 
 If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
 
+## Installation
+
+Download or clone this project, then run `npm i` from the project directory to install its dependencies. Not familiar with NPM? Check out my [NPM Tutorial](https://www.youtube.com/watch?v=mzs-N5hXGuQ).
+
+## Development server
+
+Run `ionic serve -c` for a dev server. Navigate to `http://localhost:8100/`. The app will automatically reload if you change any of the source files.
+
 ## Building
+
+Some Ionic features only work in a native build.
 
 `ionic cordova build ios`
 
-`ionic cordova bulid android`
+`ionic cordova run android`
 
-Building this is a bit more tricky since it only works on IOS and Android.
-
-Please see my video on [Ionic 4 Build App - IOS, Android, Web (Mac tutorial)](https://www.youtube.com/watch?v=B_seja5eHt8).
+For a full tutorial on building from Mac, see this video: [Ionic 4 Build App - IOS, Android, Web (Mac tutorial)](https://www.youtube.com/watch?v=B_seja5eHt8).
 
 [![Ionic 4 Build App - IOS, Android, Web (Mac tutorial)](https://img.youtube.com/vi/B_seja5eHt8/0.jpg)](https://youtu.be/c3CrC9lL53k)
+
+For a full tutorial on building from Windows, see this video: [Ionic 4 Build App - Android (Windows tutorial)](https://www.youtube.com/watch?v=c7HmwiTtYPE).
+
+[![Ionic 4 Build App - Android (Windows tutorial)](https://img.youtube.com/vi/c7HmwiTtYPE/0.jpg)](https://youtu.be/c3CrC9lL53k)
 
 ## Further help
 
