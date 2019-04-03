@@ -16,6 +16,10 @@ Download or clone this project, then run `npm i` from the project directory to i
 
 Run `ionic serve -c` for a dev server. Navigate to `http://localhost:8100/`. The app will automatically reload if you change any of the source files.
 
+You can also view the app in the Ionic DevApp from your mobile device [Ionic DevApp Tutorial](https://www.youtube.com/watch?v=SAR-7eggWMs).
+
+[![Ionic DevApp Tutorial](https://img.youtube.com/vi/SAR-7eggWMs/0.jpg)](https://youtu.be/SAR-7eggWMs)
+
 ## Building
 
 Some Ionic features only work in a native build.
